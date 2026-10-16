@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/xarray-contrib/xskillscore/commit/42bbeba672d2c73d98ba534515bef5d79c90b74f",
       "git:hexsha": "42bbeba672d2c73d98ba534515bef5d79c90b74f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-16T03:24:48.409353+00:00"
     },
     {
       "@id": "https://repolex.ai/r/xarray-contrib/xskillscore/commit/caf2f3816fc24ada50f781201bf8bb17e0c99562",
