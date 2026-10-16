@@ -1,0 +1,11 @@
+{
+  "org": "xarray-contrib",
+  "repo": "xskillscore",
+  "versions": [
+    {
+      "commit": "42bbeba672d2c73d98ba534515bef5d79c90b74f",
+      "tag": "",
+      "parsed_at": "2026-10-16T03:24:48.409914+00:00"
+    }
+  ]
+}
